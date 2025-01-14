@@ -1,0 +1,9 @@
+{
+  "id": "45ddab97-32ce-4f06-a0b3-527ebd1094f5",
+  "name": "poke_sauces",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

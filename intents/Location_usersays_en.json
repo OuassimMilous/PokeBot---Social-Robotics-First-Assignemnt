@@ -1,0 +1,509 @@
+[
+  {
+    "id": "92bada42-4d58-4986-b046-0f0783bea6a6",
+    "data": [
+      {
+        "text": "where",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d4d8add-e1c4-4474-a038-3210c60b329a",
+    "data": [
+      {
+        "text": "address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d0e9ad8-5b25-44db-9502-de6472329ba8",
+    "data": [
+      {
+        "text": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d9e15b2-54a3-4de6-a866-253bfef41591",
+    "data": [
+      {
+        "text": "Can I come pick up my poke bowl?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4766092-5c28-4551-95dd-444c507e3171",
+    "data": [
+      {
+        "text": "Where can I collect my food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59cd4b2a-b53b-4d13-8db9-bbf08952291e",
+    "data": [
+      {
+        "text": "Can I come pick it up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54614ca3-db64-40c2-94ec-f3aaea3e82dc",
+    "data": [
+      {
+        "text": "How do I get my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "178536c9-29eb-423c-ab80-96ea7077085c",
+    "data": [
+      {
+        "text": "Where\u0027s my order located?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "258643dc-4514-472d-9065-6d3fb6f65982",
+    "data": [
+      {
+        "text": "Where do I pick up my poke bowl?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c3adf3f-dc13-48dc-8fa3-b346ef4470ca",
+    "data": [
+      {
+        "text": "Where can I pick up my food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed5e9cb5-e6e6-4481-a063-afd95febd0e5",
+    "data": [
+      {
+        "text": "Where can I grab my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58826d92-24d2-4e74-8776-38c2a6163e80",
+    "data": [
+      {
+        "text": "Where do I go to pick up my poke bowl?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bac29f37-4a00-4fe4-a502-e06d609631f4",
+    "data": [
+      {
+        "text": "When can I pick up my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c420c0c-7ac4-405c-8be4-afe269933fbb",
+    "data": [
+      {
+        "text": "Where is my food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0da3ac33-6068-45ad-b0d2-819e62bbee9c",
+    "data": [
+      {
+        "text": "Where can I go to get my poke bowl?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00dab2bf-70c6-44d5-85dc-ae675dbb78b1",
+    "data": [
+      {
+        "text": "Where can I collect my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7dcc2a6e-6055-430d-a112-cf8a2703e607",
+    "data": [
+      {
+        "text": "Where do I pick up my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efb17fa8-a318-49ff-9199-e4691918de22",
+    "data": [
+      {
+        "text": "Where can I get my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd51b0e8-b78e-4e3b-8214-247fecd9daae",
+    "data": [
+      {
+        "text": "What\u0027s the address to order from?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5bd0d067-c8e9-490e-8b90-5215130f9e0e",
+    "data": [
+      {
+        "text": "Is your store close by?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5d83a7b-c846-47df-ba89-bb67357b8ac2",
+    "data": [
+      {
+        "text": "Can you give me directions to your store?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62a1a7e5-9ecc-4ee1-88e0-23632857d3a7",
+    "data": [
+      {
+        "text": "Where can I visit your store?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62e1321c-0c9c-4307-ac7c-01a3419f5e07",
+    "data": [
+      {
+        "text": "What\u0027s the address of your poke shop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9b817a9-89f9-4e2b-a38c-d702b6f7ac5b",
+    "data": [
+      {
+        "text": "Tell me where you are located.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8b5f19a-2b93-4efd-83f5-658ba42ce2e9",
+    "data": [
+      {
+        "text": "Where is your place?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8cda51e-d136-44ad-ba1a-2f947a4abca3",
+    "data": [
+      {
+        "text": "Can you tell me where you are?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29a7e2d4-d0cf-4300-9364-7554229aef40",
+    "data": [
+      {
+        "text": "Where is your shop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ebf5fcb-a0e4-41ed-acc8-45dc92bf94bc",
+    "data": [
+      {
+        "text": "What\u0027s the address for your restaurant?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e46b6ba6-694c-45d9-8ddf-e45057ead161",
+    "data": [
+      {
+        "text": "Where is Poke Bot located?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b744a7c-ff35-45fa-9be2-4a8bfa812b9a",
+    "data": [
+      {
+        "text": "What\u0027s the location of your store?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "973f2d2e-4328-45c3-965d-2152b0aa2c1c",
+    "data": [
+      {
+        "text": "Give me your address.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e710ea3-70d1-4d99-8878-a70bd0f179da",
+    "data": [
+      {
+        "text": "Where is the Poke store?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8f85485-a08b-4ec4-b156-088fe72e8735",
+    "data": [
+      {
+        "text": "How do I get to your store?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b8224db-bc37-405b-844b-7f8514e890fe",
+    "data": [
+      {
+        "text": "Where can I find you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1684566-6c0c-454e-a3d5-0e02243e927e",
+    "data": [
+      {
+        "text": "Tell me your store address.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1e31875-c4aa-49e4-8599-4d2742ac45fb",
+    "data": [
+      {
+        "text": "Where are you located?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ac0a748-0b14-483f-a86a-fa81ae68f525",
+    "data": [
+      {
+        "text": "Can I get your location?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e890c150-e572-4575-81b1-d7dc6c69e589",
+    "data": [
+      {
+        "text": "What is your address?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7baf3c9-9c2f-4c7e-9d8e-d96a9766121a",
+    "data": [
+      {
+        "text": "Where is your store?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

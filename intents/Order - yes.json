@@ -1,0 +1,45 @@
+{
+  "id": "9a8a1ad0-057d-4b9f-b397-14381fb2640e",
+  "parentId": "fe61a218-5fce-4287-a2a8-1476621041d5",
+  "rootParentId": "fe61a218-5fce-4287-a2a8-1476621041d5",
+  "name": "Order - yes",
+  "auto": true,
+  "contexts": [
+    "Order-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Order.Order-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you for your order!  \nWe’re preparing your poke bowl now and it will be ready in around 10 minutes.  \nEnjoy your meal!",
+            "Your order is confirmed!  \nWe’re making your poke bowl and it should be ready in about 10 minutes.  \nEnjoy your meal!",
+            "Thank you for placing your order!  \nYour poke bowl is being prepared and will be ready in approximately 10 minutes.  \nEnjoy your meal!",
+            "Your order is on its way!  \nWe’re preparing your poke bowl and it will be ready in about 10 minutes.  \nEnjoy your meal!",
+            "Thanks for your order!  \nWe’re getting your poke bowl ready and it’ll be ready in around 10 minutes.  \nEnjoy your meal!",
+            "We’ve received your order!  \nYour poke bowl is being prepared and will be ready in about 10 minutes.  \nEnjoy your meal!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

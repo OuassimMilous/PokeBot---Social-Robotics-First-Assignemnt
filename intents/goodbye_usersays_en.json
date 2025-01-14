@@ -1,0 +1,423 @@
+[
+  {
+    "id": "e14c5d11-c7c7-4a87-a968-6d28d2ebb9ed",
+    "data": [
+      {
+        "text": "I\u0027m done here, thanks!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71c2c418-6e94-48ec-86f8-981aa49264a7",
+    "data": [
+      {
+        "text": "Goodbye, thanks!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11af43d8-d45c-4006-b2b9-484f9e33c9b0",
+    "data": [
+      {
+        "text": "Thanks, see you next time!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae6f62fd-c87d-4b93-98f2-73c275585b62",
+    "data": [
+      {
+        "text": "Thanks for the help!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "213922c3-7347-4191-a411-6fe4705084b0",
+    "data": [
+      {
+        "text": "I\u0027m done for now, goodbye!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87b5665c-4a52-4b42-b74a-41d09cc7d3e9",
+    "data": [
+      {
+        "text": "That\u0027s it, have a good day!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebc7d152-77cb-4aab-8582-6584f26b03cd",
+    "data": [
+      {
+        "text": "Catch you later!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2ec92be-6307-4170-9590-74bc131dfd8a",
+    "data": [
+      {
+        "text": "I\u0027m out, take care!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7387b1e-d669-4320-9505-314b172f8a74",
+    "data": [
+      {
+        "text": "I\u0027m all set, goodbye!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41bb1159-6463-4a22-9dff-e47103f92887",
+    "data": [
+      {
+        "text": "It\u0027s time to go, thanks!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3957856-415e-43df-b936-33cc04bc7758",
+    "data": [
+      {
+        "text": "I\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "userDefined": false
+      },
+      {
+        "text": " finished, goodbye!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74648f2c-648c-488f-b8a4-1cb34b10df65",
+    "data": [
+      {
+        "text": "See you later, Poke Bot!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc8e8bc1-b4c5-4aeb-847d-a4d96f07d38d",
+    "data": [
+      {
+        "text": "That\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "s",
+        "userDefined": false
+      },
+      {
+        "text": " all, goodbye!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f7e407d-96ee-43e5-822e-610e17d2d94c",
+    "data": [
+      {
+        "text": "Thanks, I\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "userDefined": false
+      },
+      {
+        "text": " leaving now.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e865a1a9-6544-4079-93b2-176a45651bc2",
+    "data": [
+      {
+        "text": "Thanks for everything, take care!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73fa8d3a-c594-42d9-ae69-35f4353ab3ac",
+    "data": [
+      {
+        "text": "That\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "s",
+        "userDefined": false
+      },
+      {
+        "text": " all for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "userDefined": false
+      },
+      {
+        "text": ", bye!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5b1b30d-bb9d-4efe-aa89-78182c04f543",
+    "data": [
+      {
+        "text": "I\u0027ll be back soon, bye!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e1edb47-96b4-4d0e-8f90-398c847710be",
+    "data": [
+      {
+        "text": "I\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "userDefined": false
+      },
+      {
+        "text": " done for now, goodbye!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1045e86a-a7c0-4db1-b0c2-f68175f2172c",
+    "data": [
+      {
+        "text": "I\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "userDefined": false
+      },
+      {
+        "text": " out, take care!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b96473b5-6d51-4e5c-80c9-2f2ffa6f9e15",
+    "data": [
+      {
+        "text": "I\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "userDefined": false
+      },
+      {
+        "text": " all set, goodbye!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cc92bff-5244-4ff5-a280-32ee8411db32",
+    "data": [
+      {
+        "text": "It\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "s",
+        "userDefined": false
+      },
+      {
+        "text": " time to go, thanks!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95964c38-5a56-4021-8ea3-20917c755449",
+    "data": [
+      {
+        "text": "See you later,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ea27907-209a-43fb-942b-7b473aa3c597",
+    "data": [
+      {
+        "text": "I\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "userDefined": false
+      },
+      {
+        "text": " done here, thanks!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e82da4b-6cd1-4f33-b3dd-8687a41691a2",
+    "data": [
+      {
+        "text": "That\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "s",
+        "userDefined": false
+      },
+      {
+        "text": " all for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3610f47-f44f-4e4c-a353-63234194f300",
+    "data": [
+      {
+        "text": "Thank you!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

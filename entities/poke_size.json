@@ -1,0 +1,9 @@
+{
+  "id": "c75e8922-37f5-4e57-9e67-c29cd1fd8c31",
+  "name": "poke_size",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "32e2a330-4520-4805-b1d7-30b4a630f76c",
+  "name": "poke_protein",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

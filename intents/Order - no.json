@@ -1,0 +1,45 @@
+{
+  "id": "39056a2d-1f1c-4705-98d7-ae402e429b8c",
+  "parentId": "fe61a218-5fce-4287-a2a8-1476621041d5",
+  "rootParentId": "fe61a218-5fce-4287-a2a8-1476621041d5",
+  "name": "Order - no",
+  "auto": true,
+  "contexts": [
+    "Order-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Order.Order-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No problem! Would you like to reorder, or would you prefer to see the menu first?",
+            "No worries! Would you like to start a new order or see the menu again?",
+            "Got it! Do you want to reorder, or should I show you the menu first?",
+            "No problem! Do you want to start over with your order, or would you like to view the menu first?",
+            "Apologies! Would you like to place a new order or check the menu again?",
+            "Thanks for your patience! Do you want to reorder or see the menu again?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

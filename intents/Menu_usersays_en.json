@@ -1,0 +1,106 @@
+[
+  {
+    "id": "771362bf-a813-40e6-b76a-b8c73d7c2e24",
+    "data": [
+      {
+        "text": "What\u0027s available for toppings and sauces?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78d26de6-1804-43ee-a428-0161bd8e98f7",
+    "data": [
+      {
+        "text": "Show me what\u0027s available.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4276fc6-62c8-4f89-a666-5807ec2e0a36",
+    "data": [
+      {
+        "text": "Tell me what I can choose.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b68b1f5-d075-46a9-bd84-255eefff46f4",
+    "data": [
+      {
+        "text": "What are the base options?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe12ae34-4484-4f78-b278-a53c99d377c8",
+    "data": [
+      {
+        "text": "Can you show me the menu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b453595-e25d-4737-93dc-af2f1126ee91",
+    "data": [
+      {
+        "text": "What can I choose from?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b532e803-3467-463e-958e-8527889dd546",
+    "data": [
+      {
+        "text": "Show me the options.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b809947-203e-42c5-a0af-78ebe958e9ab",
+    "data": [
+      {
+        "text": "What\u0027s on the menu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

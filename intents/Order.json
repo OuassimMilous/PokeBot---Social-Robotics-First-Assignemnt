@@ -1,0 +1,245 @@
+{
+  "id": "fe61a218-5fce-4287-a2a8-1476621041d5",
+  "name": "Order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Order-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cccbebaf-12f2-4801-a705-92e3cba22c48",
+          "name": "poke_size",
+          "required": true,
+          "dataType": "@poke_size",
+          "value": "$poke_size",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What size would you like?  \nYou can choose from:  \n- Small  \n- Medium  \n- Large"
+            },
+            {
+              "lang": "en",
+              "value": "Please select the size of your poke bowl:  \n- Small  \n- Medium  \n- Large"
+            },
+            {
+              "lang": "en",
+              "value": "Which size would you prefer?  \nChoose one from the following:  \n- Small  \n- Medium  \n- Large"
+            },
+            {
+              "lang": "en",
+              "value": "What size do you want for your poke bowl?  \nYour options are:  \n- Small  \n- Medium  \n- Large"
+            },
+            {
+              "lang": "en",
+              "value": "Can you pick a size for your poke bowl?  \nThe available sizes are:  \n- Small  \n- Medium  \n- Large"
+            },
+            {
+              "lang": "en",
+              "value": "What size would you like for your poke bowl?  \nChoose from:  \n- Small  \n- Medium  \n- Large"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "75126af7-6273-430e-a0a9-ce30abe9530e",
+          "name": "poke_base",
+          "required": true,
+          "dataType": "@poke_base",
+          "value": "$poke_base",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What base would you like for your poke bowl?  \nYou can choose one base from:  \n- Rice  \n- Salad  \n- Noodles"
+            },
+            {
+              "lang": "en",
+              "value": "Please select one base for your poke bowl. Your options are:  \n- Rice  \n- Salad  \n- Noodles"
+            },
+            {
+              "lang": "en",
+              "value": "Which base would you like to choose for your poke bowl?  \nYou can pick from:  \n- Rice  \n- Salad  \n- Noodles"
+            },
+            {
+              "lang": "en",
+              "value": "What base would you prefer for your poke bowl?  \nChoose one from the following:  \n- Rice  \n- Salad  \n- Noodles"
+            },
+            {
+              "lang": "en",
+              "value": "For your poke bowl, please select one base:  \n- Rice  \n- Salad  \n- Noodles"
+            },
+            {
+              "lang": "en",
+              "value": "Can you pick one base for your poke bowl?  \nYour choices are:  \n- Rice  \n- Salad  \n- Noodles"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fc5cbea5-2002-402a-bf36-32e8e0bb93f0",
+          "name": "poke_protein",
+          "required": true,
+          "dataType": "@poke_protein",
+          "value": "$poke_protein",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What protein would you like for your poke bowl?  \nPick one from:  \n- Salmon  \n- Tuna  \n- Chicken  \n- Tofu  \n- Eggs  \nOr simply tell me if you want no protein."
+            },
+            {
+              "lang": "en",
+              "value": "Can you choose a protein for your poke bowl?  \nYour options are:  \n- Salmon  \n- Tuna  \n- Chicken  \n- Tofu  \n- Eggs  \nIf you don’t want any protein, just let me know."
+            },
+            {
+              "lang": "en",
+              "value": "What protein would you prefer for your poke bowl?  \nChoose from:  \n- Salmon  \n- Tuna  \n- Chicken  \n- Tofu  \n- Eggs  \nOr let me know if you\u0027d like no protein."
+            },
+            {
+              "lang": "en",
+              "value": "Which protein would you like to add?  \nYou can pick one from:  \n- Salmon  \n- Tuna  \n- Chicken  \n- Tofu  \n- Eggs  \nIf you\u0027d like no protein, just tell me."
+            },
+            {
+              "lang": "en",
+              "value": "Please select one protein for your poke bowl:  \n- Salmon  \n- Tuna  \n- Chicken  \n- Tofu  \n- Eggs  \nIf you don’t want any protein, just say so."
+            },
+            {
+              "lang": "en",
+              "value": "What protein would you like?  \nYou can choose one from:  \n- Salmon  \n- Tuna  \n- Chicken  \n- Tofu  \n- Eggs  \nIf you prefer no protein, just let me know."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "499617a2-2012-4987-9a07-adbc862412c8",
+          "name": "poke_toppings",
+          "required": true,
+          "dataType": "@poke_toppings",
+          "value": "$poke_toppings",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What toppings would you like?  \nYou can choose as many toppings as you want from:  \n- Avocado  \n- Cucumber  \n- Seaweed  \n- Corn  \n- Mango  \n- Edamame  \n- Pineapple  \n- Carrots  \n- Radish  \n- Jalapeños  \n- Onions  \nOr let me know if you\u0027d prefer no toppings."
+            },
+            {
+              "lang": "en",
+              "value": "Please select your toppings!  \nYou can choose as many as you like from:  \n- Avocado  \n- Cucumber  \n- Seaweed  \n- Corn  \n- Mango  \n- Edamame  \n- Pineapple  \n- Carrots  \n- Radish  \n- Jalapeños  \n- Onions  \nOr just tell me if you\u0027d like no toppings."
+            },
+            {
+              "lang": "en",
+              "value": "Which toppings would you like to add?  \nFeel free to pick as many as you want from:  \n- Avocado  \n- Cucumber  \n- Seaweed  \n- Corn  \n- Mango  \n- Edamame  \n- Pineapple  \n- Carrots  \n- Radish  \n- Jalapeños  \n- Onions  \nYou can also choose no toppings if you\u0027d like."
+            },
+            {
+              "lang": "en",
+              "value": "What toppings would you prefer for your poke bowl?  \nYou can choose as many as you want from:  \n- Avocado  \n- Cucumber  \n- Seaweed  \n- Corn  \n- Mango  \n- Edamame  \n- Pineapple  \n- Carrots  \n- Radish  \n- Jalapeños  \n- Onions  \nOr simply say if you’d like no toppings."
+            },
+            {
+              "lang": "en",
+              "value": "What toppings would you prefer for your poke bowl?  \nYou can choose as many as you want from:  \n- Avocado  \n- Cucumber  \n- Seaweed  \n- Corn  \n- Mango  \n- Edamame  \n- Pineapple  \n- Carrots  \n- Radish  \n- Jalapeños  \n- Onions  \nOr simply say if you’d like no toppings.\n\n- Jalapeños  \n- Onions  \n\nIf you prefer no toppings, just let me know."
+            },
+            {
+              "lang": "en",
+              "value": "Can you pick your toppings?  \nChoose as many as you like from:  \n- Avocado  \n- Cucumber  \n- Seaweed  \n- Corn  \n- Mango  \n- Edamame  \n- Pineapple  \n- Carrots  \n- Radish  \n- Jalapeños  \n- Onions  \nOr tell me if you\u0027d prefer no toppings."
+            },
+            {
+              "lang": "en",
+              "value": "Which toppings would you like for your poke bowl?  \nSelect as many as you want from:  \n- Avocado  \n- Cucumber  \n- Seaweed  \n- Corn  \n- Mango  \n- Edamame  \n- Pineapple  \n- Carrots  \n- Radish  \n- Jalapeños  \n- Onions  \nOr let me know if you\u0027d like no toppings."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "675ff0ab-92d1-4fb7-b611-283234780586",
+          "name": "poke_sauces",
+          "required": true,
+          "dataType": "@poke_sauces",
+          "value": "$poke_sauces",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What sauce would you like?  \nYou can choose one from:  \n- Mayo  \n- Spicy mayo  \n- Sweet chili sauce  \n- Soy sauce  \n- Wasabi  \n- Teriyaki sauce  \nOr let me know if you\u0027d prefer no sauce."
+            },
+            {
+              "lang": "en",
+              "value": "Please select a sauce for your poke bowl:  \n- Mayo  \n- Spicy mayo  \n- Sweet chili sauce  \n- Soy sauce  \n- Wasabi  \n- Teriyaki sauce  \nIf you don\u0027t want any sauce, just say so."
+            },
+            {
+              "lang": "en",
+              "value": "Which sauce would you like to add?  \nYou can pick one from:  \n- Mayo  \n- Spicy mayo  \n- Sweet chili sauce  \n- Soy sauce  \n- Wasabi  \n- Teriyaki sauce  \nOr simply tell me if you\u0027d like no sauce."
+            },
+            {
+              "lang": "en",
+              "value": "What sauce would you prefer for your poke bowl?  \nChoose one from:  \n- Mayo  \n- Spicy mayo  \n- Sweet chili sauce  \n- Soy sauce  \n- Wasabi  \n- Teriyaki sauce  \nOr just let me know if you\u0027d like no sauce."
+            },
+            {
+              "lang": "en",
+              "value": "Can you pick a sauce for your poke bowl?  \nYour options are:  \n- Mayo  \n- Spicy mayo  \n- Sweet chili sauce  \n- Soy sauce  \n- Wasabi  \n- Teriyaki sauce  \nOr let me know if you prefer no sauce."
+            },
+            {
+              "lang": "en",
+              "value": "Which sauce would you like for your poke bowl?  \nChoose from:  \n- Mayo  \n- Spicy mayo  \n- Sweet chili sauce  \n- Soy sauce  \n- Wasabi  \n- Teriyaki sauce  \nOr let me know if you\u0027d prefer no sauce."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Got it! Here\u0027s your order:\n\n- Size: $poke_size\n- Base: $poke_base\n- Protein: $poke_protein\n- Toppings: $poke_toppings\n- Sauce: $poke_sauces\n\n\nIs everything correct? Would you like to proceed with this order?",
+            "Here’s your order:\n\n- Size: $poke_size  \n- Base: $poke_base  \n- Protein: $poke_protein  \n- Toppings: $poke_toppings  \n- Sauce: $poke_sauces\n\nPlease confirm if everything looks good. Would you like to place this order?",
+            "Here’s what you’ve selected:\n\n- Size: $poke_size  \n- Base: $poke_base  \n- Protein: $poke_protein  \n- Toppings: $poke_toppings  \n- Sauce: $poke_sauces\n\nIs everything correct? Do you want to proceed with this order?",
+            "Your order is as follows:\n\n- Size: $poke_size  \n- Base: $poke_base  \n- Protein: $poke_protein  \n- Toppings: $poke_toppings  \n- Sauce: $poke_sauces\n\nIs everything accurate? Would you like to confirm and place the order?",
+            "Your order summary:\n\n- Size: $poke_size  \n- Base: $poke_base  \n- Protein: $poke_protein  \n- Toppings: $poke_toppings  \n- Sauce: $poke_sauces\n\nIs everything correct? Do you want to go ahead with this order?",
+            "Here’s the order you’ve chosen:\n\n- Size: $poke_size  \n- Base: $poke_base  \n- Protein: $poke_protein  \n- Toppings: $poke_toppings  \n- Sauce: $poke_sauces\n\nIs this correct? Would you like to proceed with placing the order?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

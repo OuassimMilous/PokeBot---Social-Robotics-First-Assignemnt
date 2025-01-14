@@ -1,0 +1,45 @@
+{
+  "id": "cb10d6d6-cdfc-4b1b-992e-ea1ada99bd75",
+  "name": "Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello! Welcome to Poke Bot. How can I assist you today?  \nWould you like to place an order, or would you like to see the menu first, or do you need our location?",
+            "Hi! Welcome to Poke Bot. How can I help you today?\nWould you like to order a poke bowl, check out the menu, or get our store address?",
+            "Hello and welcome to Poke Bot! What can I do for you today?\nAre you ready to order, interested in the menu, or need the store’s location?",
+            "Hey there! Thanks for visiting Poke Bot. How may I assist you today?\nWould you like to place an order, view our menu, or find out where we\u0027re located?",
+            "Hello and welcome! How can I assist you today?\nDo you want to place an order, view the menu, or get our address?",
+            "Hey there! Thanks for visiting Poke Bot. How may I assist you today?  \nWould you like to place an order, view our menu, or find out where we\u0027re located?",
+            "Hey! Welcome to Poke Bot. What would you like to do today?  \nAre you looking to order, check out our menu, or find our location?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "value": "Avocado",
+    "synonyms": [
+      "Avocado"
+    ]
+  },
+  {
+    "value": "Cucumber",
+    "synonyms": [
+      "Cucumber"
+    ]
+  },
+  {
+    "value": "Seaweed",
+    "synonyms": [
+      "Seaweed"
+    ]
+  },
+  {
+    "value": "Corn",
+    "synonyms": [
+      "Corn"
+    ]
+  },
+  {
+    "value": "Mango",
+    "synonyms": [
+      "Mango"
+    ]
+  },
+  {
+    "value": "Edamame",
+    "synonyms": [
+      "Edamame"
+    ]
+  },
+  {
+    "value": "Pineapple",
+    "synonyms": [
+      "Pineapple"
+    ]
+  },
+  {
+    "value": "Carrots",
+    "synonyms": [
+      "Carrots"
+    ]
+  },
+  {
+    "value": "Radish",
+    "synonyms": [
+      "Radish"
+    ]
+  },
+  {
+    "value": "Jalapeños",
+    "synonyms": [
+      "Jalapeños"
+    ]
+  },
+  {
+    "value": "Onions",
+    "synonyms": [
+      "onions"
+    ]
+  },
+  {
+    "value": "No topping",
+    "synonyms": [
+      "no topping",
+      "none",
+      "no",
+      "don\u0027t",
+      "do not",
+      "without"
+    ]
+  }
+]

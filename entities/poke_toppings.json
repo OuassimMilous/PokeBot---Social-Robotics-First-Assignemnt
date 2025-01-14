@@ -1,0 +1,9 @@
+{
+  "id": "4751b0ac-814b-42a0-a13e-e4ba056d39c4",
+  "name": "poke_toppings",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

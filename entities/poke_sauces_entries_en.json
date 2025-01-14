@@ -1,0 +1,54 @@
+[
+  {
+    "value": "Mayo",
+    "synonyms": [
+      "Mayo"
+    ]
+  },
+  {
+    "value": "Spicy mayo",
+    "synonyms": [
+      "Spicy mayo",
+      "spicy mayo sauce"
+    ]
+  },
+  {
+    "value": "Sweet chili sauce",
+    "synonyms": [
+      "Sweet chili sauce",
+      "sweet chili"
+    ]
+  },
+  {
+    "value": "Soy sauce",
+    "synonyms": [
+      "Soy sauce",
+      "Soy"
+    ]
+  },
+  {
+    "value": "Wasabi",
+    "synonyms": [
+      "Wasabi",
+      "Wasabi sauce"
+    ]
+  },
+  {
+    "value": "Teriyaki sauce",
+    "synonyms": [
+      "Teriyaki sauce",
+      "Teriyaki"
+    ]
+  },
+  {
+    "value": "No sauce",
+    "synonyms": [
+      "no sauce",
+      "none",
+      "no",
+      "don\u0027t",
+      "do not",
+      "without"
+    ]
+  }
+]

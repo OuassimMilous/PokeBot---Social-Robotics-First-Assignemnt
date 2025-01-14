@@ -1,0 +1,44 @@
+[
+  {
+    "value": "Salmon",
+    "synonyms": [
+      "salmon"
+    ]
+  },
+  {
+    "value": "Tuna",
+    "synonyms": [
+      "tuna"
+    ]
+  },
+  {
+    "value": "Chicken",
+    "synonyms": [
+      "chicken"
+    ]
+  },
+  {
+    "value": "Tofu",
+    "synonyms": [
+      "tofu"
+    ]
+  },
+  {
+    "value": "Eggs",
+    "synonyms": [
+      "eggs",
+      "egg"
+    ]
+  },
+  {
+    "value": "No protein",
+    "synonyms": [
+      "no protein",
+      "none",
+      "no",
+      "don\u0027t",
+      "do not",
+      "without"
+    ]
+  }
+]

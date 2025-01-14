@@ -1,0 +1,21 @@
+[
+  {
+    "value": "Rice",
+    "synonyms": [
+      "rice"
+    ]
+  },
+  {
+    "value": "Salad",
+    "synonyms": [
+      "salad",
+      "lettuce"
+    ]
+  },
+  {
+    "value": "Noodles",
+    "synonyms": [
+      "noodles"
+    ]
+  }
+]

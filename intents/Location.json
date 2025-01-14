@@ -1,0 +1,38 @@
+{
+  "id": "74b824a2-4c94-4592-883a-7477ee8485dd",
+  "name": "Location",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our store is located at:\n123 Poke Street, Poke City, Country 12345.\n\nWe’re open from 10 AM to 8 PM every day. Feel free to stop by anytime!",
+            "You can find us at:\n123 Poke Street, Poke City, Country 12345.\n\nOur hours are 10 AM to 8 PM daily. Come visit us anytime!",
+            "Visit us at:\n123 Poke Street, Poke City, Country 12345.\n\nWe’re open every day from 10 AM to 8 PM. See you soon!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

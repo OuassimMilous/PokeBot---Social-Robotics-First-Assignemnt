@@ -1,0 +1,43 @@
+{
+  "description": "PokeBot is your friendly assistant for ordering delicious poke bowls! It helps you customize your order by guiding you through choosing a base, protein, toppings, and sauce. Whether you\u0027re in the mood for a quick snack or a full meal, PokeBot makes ordering easy and fun. \nThis bot is the first assignment for the Social Robotics class at the University of Genoa (Unige), created by Ouassim Milous. Get your poke bowl exactly the way you like it, and have it ready in no time!",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "PokeBot",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "39056a2d-1f1c-4705-98d7-ae402e429b8c",
+      "9a8a1ad0-057d-4b9f-b397-14381fb2640e",
+      "74b824a2-4c94-4592-883a-7477ee8485dd",
+      "f40c5835-0454-458e-94bf-be180c6bd03f",
+      "93a19242-997c-4f27-a5f0-89bff0cc45be"
+    ],
+    "voiceType": "VOICE_TYPE_UNSPECIFIED",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "PROTOCOL_VERSION_UNSPECIFIED",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Europe/Madrid",
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2",
+  "secondaryKey": "f5e7cd3ac9914ea7a5fdf0d85e6506a7",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}

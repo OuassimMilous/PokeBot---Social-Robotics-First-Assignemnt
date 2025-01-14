@@ -1,0 +1,38 @@
+{
+  "id": "f40c5835-0454-458e-94bf-be180c6bd03f",
+  "name": "Menu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Of course! Here\u0027s our menu:\n\n1. For the base, you can choose between:\n- Rice\n- Salad\n- Noodles\n\n2. For proteins, we have:\n- Salmon\n- Tuna\n- Chicken\n- Tofu\n- Eggs\n\n3. For toppings, you can choose from:\n- Avocado\n- Cucumber\n- Seaweed\n- Corn\n- Mango\n- Edamame\n- Pineapple\n- Carrots\n- Radish\n- Jalapeños\n- Onions\n\n4. For sauces, we offer:\n- Mayo\n- Spicy mayo\n- Sweet chili sauce\n- Soy sauce\n- Wasabi\n- Teriyaki sauce\n\nYou can choose 1 base, 1 protein, multiple toppings, and 1 sauce for your poke bowl.  \nWhat would you like to order?",
+            "Here’s the menu for you:\n\n1. Base options:\n- Rice\n- Salad\n- Noodles\n\n2. Protein choices:\n- Salmon\n- Tuna\n- Chicken\n- Tofu\n- Eggs\n\n3. Toppings available:\n- Avocado\n- Cucumber\n- Seaweed\n- Corn\n- Mango\n- Edamame\n- Pineapple\n- Carrots\n- Radish\n- Jalapeños\n- Onions\n\n4. Sauces to choose from:\n- Mayo\n- Spicy mayo\n- Sweet chili sauce\n- Soy sauce\n- Wasabi\n- Teriyaki sauce\n\nYou can choose 1 base, 1 protein, multiple toppings, and 1 sauce for your poke bowl.  \nWhat would you like to order?",
+            "Sure! Here’s our menu:\n\n1. Choose your base:\n- Rice\n- Salad\n- Noodles\n\n2. Pick your protein:\n- Salmon\n- Tuna\n- Chicken\n- Tofu\n- Eggs\n\n3. Select your toppings:\n- Avocado\n- Cucumber\n- Seaweed\n- Corn\n- Mango\n- Edamame\n- Pineapple\n- Carrots\n- Radish\n- Jalapeños\n- Onions\n\n4. Choose your sauce:\n- Mayo\n- Spicy mayo\n- Sweet chili sauce\n- Soy sauce\n- Wasabi\n- Teriyaki sauce\n\nYou can choose 1 base, 1 protein, multiple toppings, and 1 sauce for your poke bowl.  \nWhat would you like to order?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

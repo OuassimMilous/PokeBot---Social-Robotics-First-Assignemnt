@@ -1,0 +1,9 @@
+{
+  "id": "7d0b56fd-e662-4ff7-8c32-64b307988e2a",
+  "name": "poke_base",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

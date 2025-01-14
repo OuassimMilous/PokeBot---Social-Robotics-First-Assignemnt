@@ -1,0 +1,38 @@
+{
+  "id": "93a19242-997c-4f27-a5f0-89bff0cc45be",
+  "name": "goodbye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you for choosing Poke Bot!\nFeel free to come back anytime.",
+            "Thanks for ordering with Poke Bot!\nWe look forward to serving you again soon.",
+            "Thank you for using Poke Bot!\nDon’t hesitate to return whenever you\u0027re hungry for more!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}
